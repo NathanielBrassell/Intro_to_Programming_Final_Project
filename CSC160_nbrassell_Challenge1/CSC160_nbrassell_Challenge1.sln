@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSC160_nbrassell_Challenge1", "CSC160_nbrassell_Challenge1\CSC160_nbrassell_Challenge1.vcxproj", "{F07E90A1-A01B-410C-9F6F-3014FF7D715C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07E90A1-A01B-410C-9F6F-3014FF7D715C}.Debug|x64.ActiveCfg = Debug|x64
+		{F07E90A1-A01B-410C-9F6F-3014FF7D715C}.Debug|x64.Build.0 = Debug|x64
+		{F07E90A1-A01B-410C-9F6F-3014FF7D715C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F07E90A1-A01B-410C-9F6F-3014FF7D715C}.Debug|x86.Build.0 = Debug|Win32
+		{F07E90A1-A01B-410C-9F6F-3014FF7D715C}.Release|x64.ActiveCfg = Release|x64
+		{F07E90A1-A01B-410C-9F6F-3014FF7D715C}.Release|x64.Build.0 = Release|x64
+		{F07E90A1-A01B-410C-9F6F-3014FF7D715C}.Release|x86.ActiveCfg = Release|Win32
+		{F07E90A1-A01B-410C-9F6F-3014FF7D715C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4792B3AC-659E-4638-92FE-56AC0CD24F67}
+	EndGlobalSection
+EndGlobal
