@@ -1,0 +1,5 @@
+﻿Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall PlayerCharacter::attack<class Goblin>(class Goblin)" (??$attack@VGoblin@@@PlayerCharacter@@QAEXVGoblin@@@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall Warrior::specialAbility<class Goblin>(class Goblin)" (??$specialAbility@VGoblin@@@Warrior@@QAEXVGoblin@@@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall Goblin::specialAbility<class Warrior>(class Warrior)" (??$specialAbility@VWarrior@@@Goblin@@QAEXVWarrior@@@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall EnemyCharacter::attackCharacter<class Warrior>(class Warrior)" (??$attackCharacter@VWarrior@@@EnemyCharacter@@QAEXVWarrior@@@Z) referenced in function _main
+C:\Users\Nathaniel\Desktop\CSC160\CSC160_NBrassell_FinalProject\Debug\CSC160_NBrassell_FinalProject.exe : fatal error LNK1120: 4 unresolved externals
